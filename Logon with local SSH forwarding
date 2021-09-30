@@ -1,0 +1,11 @@
+Setup SSH Local Forwarding and log in
+
+On your local windows/linux host:
+$ ssh –Nf –L3333:localhost:3333 kpomeroy go.phish.ip.address -p 65522
+
+In your browser:
+https://127.0.0.1:3333
+Username: admin
+Password: gophish
+
+Change the default password right away
