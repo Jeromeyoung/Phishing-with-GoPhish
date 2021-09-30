@@ -1,0 +1,5 @@
+How to Backup existing installation and Upgrade
+
+To backup and upgrade, download the release for your platform, extract into a folder, and copy (remember to copy, not move so that you have a backup) your existing gophish.db file into the new directory. Then, run the new gophish binary and you'll be good to go!
+Don't forget to copy the config.json file
+
