@@ -1,0 +1,12 @@
+Download and Install
+
+The latest release as of October 1st 2021 is version 0.11.0
+https://github.com/gophish/gophish/releases
+
+# mkdir /opt/gophish/
+# cd /opt/gophish
+# wget https://github.com/gophish/gophish/releases/download/v0.11.0/gophish-v0.11.0-linux-64bit.zip
+# sudo unzip gophish-v0.9.0-linux-64bit.zip
+# cd /opt/gophish
+# tmux new –s gophish *
+# sudo ./gophish
